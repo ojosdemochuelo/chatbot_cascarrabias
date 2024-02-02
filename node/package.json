@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "openai": "^4.0.0"
+  },
+  "name": "chatbot_cascarrabias_node",
+  "version": "1.0.0",
+  "description": "Primera versión del chatbot cascarrabias en node",
+  "main": "chatbot_cascarrabias.mjs",
+  "devDependencies": {},
+  "keywords": [
+    "chatbot",
+    "OpenAI",
+    "node"
+  ],
+  "author": "ojosdemochuelo"
+}
